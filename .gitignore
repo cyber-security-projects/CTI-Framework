@@ -1,0 +1,21 @@
+# Files
+data/accounts.txt
+
+# Virtual Enviroment
+venv/
+env/
+.venv/
+.env/
+
+# IDE Configs
+.vscode/
+.idea/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+*.tmp
