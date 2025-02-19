@@ -1,5 +1,5 @@
 # Files
-data/accounts.txt
+data/users.json
 
 # Virtual Enviroment
 venv/
